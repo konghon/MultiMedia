@@ -9,7 +9,7 @@ The 3dModel was made in blender, the tool is great to design models for games an
 Onion Master	https://youtu.be/ijEqquwMwlE
 
 ## SoundScape
-Best heard with headphones for stereo seperation. And small details in sound. 
+Best heard with headphones for stereo seperation. And small details in sound. Get close to the sign to trigger the sound.
 
 ## Ui-Kit
 
